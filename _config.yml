@@ -1,19 +1,19 @@
-title: "Upperboat"
-logo: "/images/bio_photo.png?raw=true"
+title: "Steven Tsai"
+logo: "/images/photo.png?raw=true"
 description: >
-  Welcome to Upperboat — a place where creativity meets insight. 
+  I'm Steven, Professional Engineering Project Manager 
   <br><br>
-  I'm passionate about data, strategy, and innovation.
+  I'm passionate about proeject management, data analysis, technology innovation.
   <br><br>
-  <a href="https://www.linkedin.com/in/larrychencpa/" target="_blank">View My LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/hsuanyutsai/">View My LinkedIn Profile</a>
 
 theme: jekyll-theme-minimal
 
 show_downloads: false
 google_analytics: ""  # Add your GA tracking ID if needed, e.g., "UA-XXXXXXXXX-X"
 author:
-  name: "Larry Chen"
-  email: "larry.chen@upperboat.com"
+  name: "Steven Tsai"
+  email: "steven.hy.tsai@icloud.com"
 
 # Build settings
 markdown: kramdown
