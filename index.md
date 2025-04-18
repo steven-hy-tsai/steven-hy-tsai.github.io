@@ -2,9 +2,9 @@
 
 ---
 ### Learn About My Projects
-#### [Data Engineering: Loan And Credit Card ETL Project](https://www.linkedin.com/pulse/loan-credit-card-etl-project-larry-chen-liqne/)
-[<img src="./images/Loan And Credit Card ETL Project.png?raw=true"/>](https://www.linkedin.com/pulse/loan-credit-card-etl-project-larry-chen-liqne/)
-This project showcases my skills and knowledge in managing an ETL process for Loan Application and Credit Card datasets. Using Python, Apache Spark, SQL, and various Python libraries, I demonstrated my ability to handle data extraction, transformation, loading, and visualization.
+#### [Defect Analysis Support Tool Project](https://www.linkedin.com/pulse/from-raw-defect-data-actionable-insight-building-analysis-tsai-vidxc)
+[<img src="./images/Cover.png?raw=true"/>](https://www.linkedin.com/pulse/from-raw-defect-data-actionable-insight-building-analysis-tsai-vidxc)
+This project showcases my skills and knowledge in applying data analytics and machine learning to hardware defect management. Using Python, Pandas, Scikit-learn, and Matplotlib, I demonstrated my ability to clean raw defect data, build insightful dashboards, and train a predictive model to estimate defect severity—supporting faster and more informed decisions in manufacturing environments.
 
 ---
 #### [Demo](https://upperboat.github.io)
